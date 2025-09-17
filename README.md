@@ -9,12 +9,6 @@
 - `outputs/submission.csv` — предсказания для теста.
 - `requirements.txt` — зависимости проекта.
 
-## Структура репозитория
-- `notebooks/solution.ipynb` — основной ноутбук с решением.
-- `outputs/train_pseudo.csv` — псевдоразмеченный train.
-- `outputs/submission.csv` — предсказания для теста.
-- `requirements.txt` — зависимости проекта.
-
 ## Данные
 -## Данные
 - Датасеты train.csv, test.csv, submission_example.csv нужно скачать самостоятельно с [официального источника](https://data.tinkoff.ru/s/QKAc6RXwKRck6Bs)
