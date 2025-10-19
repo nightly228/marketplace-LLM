@@ -1,6 +1,8 @@
 # marketplace-LLM
 # Marketplace Reviews — LLM классификация отзывов
 
+Гугл-колаб: https://colab.research.google.com/drive/1s50wqOA9s60Ts57XApdmNmDXLhrSSV5V
+
 **Цель проекта:** классификация отзывов с маркетплейсов по категориям товаров (включая "нет товара").
 
 ## Структура репозитория
